@@ -1,0 +1,48 @@
+
+.bcontainer {
+    margin-left:130px;
+    display:inline-block;
+}
+
+  .notes-grid {
+    display: flex;
+  }
+
+.form-container {
+    position: relative;
+    margin-left:20%;
+}
+
+.styleOfButton {
+    background-color: transparent;
+    border-color: transparent;
+    color: white;
+    cursor: pointer;
+}
+
+.container {
+    width: 100vh;
+    height: 70vh;
+    margin-left: 500px;
+    margin-bottom:0%;
+    border-style: dashed;
+    height: fit-content;
+}
+
+.formContainer {
+    margin-left: 85%;
+    margin-top:50%;
+    width:fit-content;
+}
+
+.note-item {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100vh;
+    margin-top:18%;
+    height:fit-content;
+    margin-left:20%;
+  }
